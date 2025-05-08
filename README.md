@@ -24,15 +24,6 @@
 
 
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abbashaider&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbashaider&theme=radical" alt="streak" />
-</p>
-
----
-
 ### 🧩 Fun Fact
 
 > “My models don't just fit — they tell stories.”  
