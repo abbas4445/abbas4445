@@ -28,3 +28,6 @@
 
 > “My models don't just fit — they tell stories.”  
 > (Unless it's Monday, then maybe just debugging 😅)
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abbas4445)](https://github.com/ashutosh00710/github-readme-activity-graph)
