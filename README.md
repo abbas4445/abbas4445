@@ -29,5 +29,20 @@
 > “My models don't just fit — they tell stories.”  
 > (Unless it's Monday, then maybe just debugging 😅)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbas4445&layout=compact&theme=radical)
+
+![Abbas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbas4445&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=abbas4445&theme=radical)
+
+
+![Metrics](https://raw.githubusercontent.com/yourusername/abbas4445/main/github-metrics.svg)
+
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=abbas4445&theme=radical)
+
+
+
+
 ![Custom Dark Snake](https://github.com/abbas4445/snk/blob/output/github-contribution-grid-snake-dark.svg)
 
