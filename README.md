@@ -29,5 +29,5 @@
 > “My models don't just fit — they tell stories.”  
 > (Unless it's Monday, then maybe just debugging 😅)
 
-![Snake animation](https://github.com/abbas4445/snk/blob/output/github-contribution-grid-snake.svg)
+![Custom Dark Snake](https://github.com/<your-username>/snk/blob/output/github-contribution-grid-snake-dark.svg)
 
