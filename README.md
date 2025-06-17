@@ -31,7 +31,7 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=abbas4445&theme=radical)
+
 
 
 ![Custom Dark Snake](https://github.com/abbas4445/snk/blob/output/github-contribution-grid-snake-dark.svg)
